@@ -8,4 +8,4 @@
 #
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=LSP,postgresql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=LSP&theme=dark)](https://skillicons.dev)
