@@ -5,7 +5,4 @@
 - Análise e Desenvolvimento de Sistemas
 - Senior Sistemas
 - Dynamics CRM
-#
-<h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=LSP&theme=dark)](https://skillicons.dev)
