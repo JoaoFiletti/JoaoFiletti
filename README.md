@@ -2,8 +2,9 @@
 
 <img align="right" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" width=300px alt="coding gif">
 
-- ADS 
-- Sistemas
+- Análise e Desenvolvimento de Sistemas
+- Senior Sistemas
+- Dynamics CRM
 #
 <h3 align="left">Languages and Tools:</h3>
 
